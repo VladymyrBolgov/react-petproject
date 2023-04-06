@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-petproject/static/css/main.073c9b0a.css",
+    "main.js": "/react-petproject/static/js/main.a9e9440b.js",
+    "static/js/787.c2bda5af.chunk.js": "/react-petproject/static/js/787.c2bda5af.chunk.js",
+    "static/media/logo.svg": "/react-petproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-petproject/index.html",
+    "main.073c9b0a.css.map": "/react-petproject/static/css/main.073c9b0a.css.map",
+    "main.a9e9440b.js.map": "/react-petproject/static/js/main.a9e9440b.js.map",
+    "787.c2bda5af.chunk.js.map": "/react-petproject/static/js/787.c2bda5af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a9e9440b.js"
+  ]
+}
