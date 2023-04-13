@@ -1,4 +1,5 @@
 import { Alert } from "./Alert";
+
 export const App = () => {
   return (
     <>
